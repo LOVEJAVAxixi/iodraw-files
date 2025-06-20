@@ -212,10 +212,13 @@
           <mxGeometry x="980" y="225.5" width="110" height="43" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-97" value="任务发派" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="975.5" y="358" width="124.5" height="52" as="geometry" />
+          <mxGeometry x="975.5" y="324" width="124.5" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-91" target="6-eX_Ixz9PynZaAtnYsM-97">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-101" value="智能调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980.25" y="437.5" width="115" height="42.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
