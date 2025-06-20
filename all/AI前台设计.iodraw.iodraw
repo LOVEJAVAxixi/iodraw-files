@@ -55,12 +55,6 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-24" value="船舶模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="225" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-25" target="6-eX_Ixz9PynZaAtnYsM-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-25" target="6-eX_Ixz9PynZaAtnYsM-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-25" target="6-eX_Ixz9PynZaAtnYsM-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -71,13 +65,19 @@
           <mxGeometry x="960" y="160" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-26" value="辖区&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="70" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-31" value="单个MMSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="165" width="120" height="40" as="geometry" />
+          <mxGeometry x="1140" y="70" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-32" value="船公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="225" width="120" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-25" target="6-eX_Ixz9PynZaAtnYsM-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1070" y="185" as="sourcePoint" />
+            <mxPoint x="1205" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-31" value="单个MMSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="150" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
