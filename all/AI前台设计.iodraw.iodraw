@@ -46,21 +46,8 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-14" value="前端首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="590" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.009;exitY=0.148;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.157;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="159.93000000000006" y="669.96" as="sourcePoint" />
-            <mxPoint x="427.5" y="672.3900000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.138;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.123;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="194.76" y="631.6199999999999" as="sourcePoint" />
-            <mxPoint x="190.71000000000004" y="902.7" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-19" value="logo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="155" y="640" width="50" height="30" as="geometry" />
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-20" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="670" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
