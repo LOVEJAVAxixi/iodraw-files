@@ -70,6 +70,9 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-31" value="单个MMSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="170" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-32" value="船公司" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="225" width="120" height="35" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
