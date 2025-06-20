@@ -88,8 +88,14 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-31" value="单个MMSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="165" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-38" target="6-eX_Ixz9PynZaAtnYsM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-38" value="船舶动态信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="348" width="120" height="40" as="geometry" />
+          <mxGeometry x="960" y="370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-40" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
