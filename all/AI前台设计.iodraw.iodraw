@@ -25,9 +25,9 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-5" value="websocket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="490" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.067;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="6-eX_Ixz9PynZaAtnYsM-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="480" as="sourcePoint" />
+            <mxPoint x="160" y="500" as="sourcePoint" />
             <mxPoint x="290" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
