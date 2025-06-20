@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="InWhIZ3_oWj8Nbc3uCPz-1" value="后端：&lt;div&gt;（1）基于智能体平台应用开发，采用应用嵌入的形式开发。&lt;div&gt;（2）模块化应用创建，功能对应到单独的应用，做好应用归类，应用之间各司其职。&lt;/div&gt;&lt;div&gt;（3）建立平台能力知识库，让平台有能力去判断自己能否解答用户的问题。&lt;/div&gt;&lt;div&gt;（4）创建一个控制应用，该应用的做用就是去理解用户的意图，拆解行动步骤，自如调动各个应用模块。（实现：利用模型functioncall机制，连续工具调用）&lt;/div&gt;&lt;/div&gt;&lt;div&gt;（5）内容呈现,表格 word 之类的先用现成的markdown格式在页面的表格等方式呈现。&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="60" y="190" width="600" height="130" as="geometry" />
+          <mxGeometry x="60" y="160" width="600" height="130" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-1" value="AI-前台" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="440" width="90" height="40" as="geometry" />
@@ -23,7 +23,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-5" value="websocket" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="80" height="30" as="geometry" />
+          <mxGeometry x="310" y="430" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.067;entryY=1.046;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-1" target="6-eX_Ixz9PynZaAtnYsM-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
