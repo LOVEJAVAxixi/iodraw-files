@@ -118,8 +118,11 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-61" value="任务清单" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="493" y="650" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-62" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="270" y="625" width="80" height="80" as="geometry" />
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="640" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-64" value="对话框" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="650" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
