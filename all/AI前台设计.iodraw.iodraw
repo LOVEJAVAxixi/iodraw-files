@@ -193,9 +193,6 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-90" value="发送" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1070" y="940" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.014;exitY=0.607;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-97" target="6-eX_Ixz9PynZaAtnYsM-95">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-91" target="6-eX_Ixz9PynZaAtnYsM-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -212,10 +209,10 @@
           <mxGeometry x="975.5" y="57" width="109" height="53" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-95" value="知识库建设" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="985" y="217" width="120" height="60" as="geometry" />
+          <mxGeometry x="980" y="217" width="110" height="43" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-97" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="980" y="358" width="120" height="60" as="geometry" />
+          <mxGeometry x="975.5" y="358" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.607;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-91" target="6-eX_Ixz9PynZaAtnYsM-97">
           <mxGeometry relative="1" as="geometry" />
