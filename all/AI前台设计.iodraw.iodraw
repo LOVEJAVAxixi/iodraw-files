@@ -7,6 +7,9 @@
         <mxCell id="InWhIZ3_oWj8Nbc3uCPz-1" value="后端：&lt;div&gt;（1）基于智能体平台应用开发，不动原始框架，采用应用嵌入的形式开发。&lt;div&gt;（2）模块化应用创建，功能对应到单独的应用，做好应用归类，应用之间各司其职。&lt;/div&gt;&lt;div&gt;（3）建立平台能力知识库，让平台有能力去判断自己能否解答用户的问题。&lt;/div&gt;&lt;div&gt;（4）创建一个控制应用，该应用的做用就是去理解用户的意图，拆解行动步骤，自如调动各个应用模块。（实现：利用模型functioncall机制，连续工具调用）&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="60" y="190" width="600" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
