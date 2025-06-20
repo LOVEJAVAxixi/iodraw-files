@@ -46,8 +46,10 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-14" value="前端首页" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="250" y="590" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-20" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="670" width="200" height="200" as="geometry" />
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-20" value="" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185" y="620" width="200" height="200" as="geometry">
+            <mxRectangle x="185" y="620" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
