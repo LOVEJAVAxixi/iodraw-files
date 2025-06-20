@@ -88,17 +88,17 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-31" value="单个MMSI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="165" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-38" target="6-eX_Ixz9PynZaAtnYsM-40">
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-38" target="6-eX_Ixz9PynZaAtnYsM-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-38" target="6-eX_Ixz9PynZaAtnYsM-42">
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="6-eX_Ixz9PynZaAtnYsM-38" target="6-eX_Ixz9PynZaAtnYsM-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-38" value="船舶动态信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-40" value="根据船舶类型提问" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1145" y="340" width="115" height="40" as="geometry" />
+          <mxGeometry x="1100" y="348" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-42" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="470" width="110" height="50" as="geometry" />
