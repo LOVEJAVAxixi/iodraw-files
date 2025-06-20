@@ -187,11 +187,11 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-88" value="对话框" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="985" y="900" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6-eX_Ixz9PynZaAtnYsM-89" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-89" value="语音" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="1050" y="940" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-90" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="950" width="20" height="20" as="geometry" />
+          <mxGeometry x="1070" y="940" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
