@@ -106,6 +106,9 @@
         <mxCell id="6-eX_Ixz9PynZaAtnYsM-57" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=100;dy=50;" vertex="1" parent="1">
           <mxGeometry x="130" y="540" width="470" height="490" as="geometry" />
         </mxCell>
+        <mxCell id="6-eX_Ixz9PynZaAtnYsM-58" value="LOGO" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="150" y="555" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
